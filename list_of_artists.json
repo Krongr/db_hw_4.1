@@ -1,0 +1,324 @@
+[
+    {
+        "name": "milet",
+        "genre": [
+            "pop"
+        ],
+        "albums": [
+            {
+                "album_name": "eyes",
+                "year": 2020,
+                "songs": [
+                    {
+                        "song_name": "Drown",
+                        "length": 144
+                    },
+                    {
+                        "song_name": "Until I Die",
+                        "length": 270
+                    }
+                ]
+            },
+            {
+                "album_name": "visions",
+                "year": 2020,
+                "songs": [
+                    {
+                        "song_name": "SEVENTH HEAVEN",
+                        "length": 238
+                    },
+                    {
+                        "song_name": "Ordinary days",
+                        "length": 289
+                    },
+                    {
+                        "song_name": "Shed a light",
+                        "length": 286
+                    }
+                ]
+            }
+
+        ]
+    },
+    {
+        "name": "amazarashi",
+        "genre": [
+            "rock",
+            "folk"
+        ],
+        "albums": [
+            {
+                "album_name": "Sayonara Gokko",
+                "year": 2019,
+                "songs": [
+                    {
+                        "song_name": "Sayonara-gokko",
+                        "length": 272
+                    },
+                    {
+                        "song_name": "Isaac",
+                        "length": 132
+                    },
+                    {
+                        "song_name": "Sore o kotoba to iu",
+                        "length": 336
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Mrs. GREEN APPLE",
+        "genre": [
+            "pop",
+            "rock"
+        ],
+        "albums": [
+            {
+                "album_name": "Twelve",
+                "year": 2016,
+                "songs": [
+                    {
+                        "song_name": "Aijou to Hokosaki",
+                        "length": 244
+                    },
+                    {
+                        "song_name": "Speaking",
+                        "length": 242
+                    }
+                ]
+            },
+            {
+                "album_name": "Attitude",
+                "year": 2019,
+                "songs": [
+                    {
+                        "song_name": "Inferno",
+                        "length": 222
+                    },
+                    {
+                        "song_name": "Boku no Koto",
+                        "length": 329
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lucky Chops",
+        "genre": [
+            "fusion",
+            "instrumental"
+        ],
+        "albums": [
+            {
+                "album_name": "Danza 2016",
+                "year": 2016,
+                "songs": [
+                    {
+                        "song_name": "Danza 2016",
+                        "length": 302
+                    }
+                ]
+            },
+            {
+                "album_name": "Lucky Chops",
+                "year": 2019,
+                "songs": [
+                    {
+                        "song_name": "Traveler",
+                        "length": 225
+                    },
+                    {
+                        "song_name": "Flyway",
+                        "length": 204
+                    },
+                    {
+                        "song_name": "Memories",
+                        "length": 237
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Týr",
+        "genre": [
+            "metal",
+            "folk"
+        ],
+        "albums": [
+            {
+                "album_name": "By the Light of the Northern Star",
+                "year": 2009,
+                "songs": [
+                    {
+                        "song_name": "Hold the Heathen Hammer High",
+                        "length": 290
+                    },
+                    {
+                        "song_name": "Ride",
+                        "length": 299
+                    },
+                    {
+                        "song_name": "Northern Gate",
+                        "length": 282
+                    }
+                ]
+            },
+            {
+                "album_name": "The Lay of Thrym",
+                "year": 2011,
+                "songs": [
+                    {
+                        "song_name": "Hall of Freedom",
+                        "length": 247
+                    },
+                    {
+                        "song_name": "Fields of the Fallen",
+                        "length": 299
+                    }
+                ]
+            },
+            {
+                "album_name": "Valkyrja",
+                "year": 2013,
+                "songs": [
+                    {
+                        "song_name": "Mare of My Night",
+                        "length": 236
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Yann Tiersen",
+        "genre": [
+            "instrumental"
+        ],
+        "albums": [
+            {
+                "album_name": "Les Retrouvailles",
+                "year": 2005,
+                "songs": [
+                    {
+                        "song_name": "La Veillée",
+                        "length": 191
+                    },
+                    {
+                        "song_name": "Le Matin",
+                        "length": 118
+                    },
+                    {
+                        "song_name": "Loin des villes",
+                        "length": 199
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lord Huron",
+        "genre": [
+            "rock"
+        ],
+        "albums": [
+            {
+                "album_name": "Strange Trails",
+                "year": 2015,
+                "songs": [
+                    {
+                        "song_name": "Meet Me in the Woods",
+                        "length": 262
+                    },
+                    {
+                        "song_name": "The Night We Met",
+                        "length": 208
+                    },
+                    {
+                        "song_name": "Cursed",
+                        "length": 238
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Blind Guardian",
+        "genre": [
+            "metal"
+        ],
+        "albums": [
+            {
+                "album_name": "Somewhere Far Beyond",
+                "year": 1992,
+                "songs": [
+                    {
+                        "song_name": "The Bard Song",
+                        "length": 189
+                    },
+                    {
+                        "song_name": "Somewhere Far Beyond",
+                        "length": 448
+                    }
+                ]
+            },
+            {
+                "album_name": "A Twist in the Myth",
+                "year": 2006,
+                "songs": [
+                    {
+                        "song_name": "This Will Never End",
+                        "length": 307
+                    },
+                    {
+                        "song_name": "Straight Through the Mirror",
+                        "length": 350
+                    },
+                    {
+                        "song_name": "The New Order",
+                        "length": 294
+                    }
+                ]
+            },
+            {
+                "album_name": "At the Edge of Time",
+                "year": 2010,
+                "songs": [
+                    {
+                        "song_name": "Curse My Name",
+                        "length": 349
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Agatsuma Hiromitsu",
+        "genre": [
+            "instrumental",
+            "fusion"
+        ],
+        "albums": [
+            {
+                "album_name": "Kusabi",
+                "year": 2012,
+                "songs": [
+                    {
+                        "song_name": "Wonder",
+                        "length": 212
+                    },
+                    {
+                        "song_name": "Fragile",
+                        "length": 388
+                    },
+                    {
+                        "song_name": "Kasou no Kioku",
+                        "length": 337
+                    }
+                ]
+            }
+        ]
+    }
+]

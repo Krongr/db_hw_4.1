@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Anime OPs and EDs",
+        "year": 2020,
+        "songs": [
+            "Drown",
+            "Sayonara-gokko",
+            "Inferno"
+        ]
+    },
+    {
+        "name": "Metal",
+        "year": 2016,
+        "songs": [
+            "The Bard Song",
+            "Hall of Freedom",
+            "Mare of My Night",
+            "Somewhere Far Beyond",
+            "Hold the Heathen Hammer High",
+            "This Will Never End",
+            "Straight Through the Mirror",
+            "Fields of the Fallen"
+        ]
+    },
+    {
+        "name": "Instrumental",
+        "year": 2019,
+        "songs": [
+            "Wonder",
+            "Danza 2016",
+            "La Veillée",
+            "Loin des villes",
+            "Kasou no Kioku",
+            "Memories"
+        ]
+    },
+    {
+        "name": "Asian",
+        "year": 2021,
+        "songs": [
+            "Drown",
+            "Wonder",
+            "Sayonara-gokko",
+            "Fragile",
+            "Inferno",
+            "Aijou to Hokosaki",
+            "Sore o kotoba to iu",
+            "Speaking"
+        ]
+    },
+    {
+        "name": "Pop & Rock",
+        "year": 2020,
+        "songs": [
+            "Meet Me in the Woods",
+            "Inferno",
+            "The Night We Met",
+            "Isaac",
+            "Boku no Koto"
+        ]
+    },
+    {
+        "name": "My playlist 2017",
+        "year": 2017,
+        "songs": [
+            "Somewhere Far Beyond",
+            "Danza 2016",
+            "Hall of Freedom",
+            "Loin des villes",
+            "The Night We Met",
+            "The Bard Song",
+            "Hold the Heathen Hammer High"
+        ]
+    },
+    {
+        "name": "Folk",
+        "year": 2019,
+        "songs": [
+            "Fields of the Fallen",
+            "Sayonara-gokko",
+            "Ride",
+            "The Bard Song",
+            "Sore o kotoba to iu",
+            "Straight Through the Mirror"
+        ]
+    },
+    {
+        "name": "My playlist 2022",
+        "year": 2022,
+        "songs": [
+            "Drown",
+            "Sayonara-gokko",
+            "Inferno",
+            "Boku no Koto",
+            "Ordinary days",
+            "Sore o kotoba to iu",
+            "Shed a light",
+            "Aijou to Hokosaki"
+        ]
+    }
+]
